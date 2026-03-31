@@ -1,10 +1,20 @@
 # 🚀 Digital Literacy Project
 
+<<<<<<< Updated upstream
 ## 👤 Student Details
 - **Name:** CHILLAMKURI MOHITH REDDY  
 - **Registration Number:** 25MIM10081  
 - **Branch:** CSE (Integrated M.Tech AI)  
 - **Year:** First Year  
+=======
+## Student Details
+Name:  CHILLAMKURI MOHITH REDDY
+Registration Number:  25MIM10081
+Branch: CSE  (INTEGRATED M.TECH AI)
+Year: First Year 
+Course Code: CSE0001
+Date: 31-03-2026 
+>>>>>>> Stashed changes
 
 ---
 
