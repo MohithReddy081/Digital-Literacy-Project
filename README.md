@@ -88,7 +88,7 @@ This task increased my awareness of online threats and safe digital practices.
 ---
 
 ## 🗂️ Repository Structure
-
+```
 digital-literacy-project/
 │
 ├── README.md
@@ -112,7 +112,7 @@ digital-literacy-project/
     ├── casestudy.pdf
     └── prevention-checklist.txt
 
-
+```
 
 ---
 
