@@ -38,8 +38,8 @@ In this task, I created a digital infographic using **Canva** to explain the con
 In this task, I created and updated my professional profiles to build a strong digital presence.
 
 - 🔗 **GitHub Profile:** https://github.com/MohithReddy081  
-- 🔗 **LinkedIn Profile:** https://www.linkedin.com/  
-- 🔗 **Kaggle Profile:** https://www.kaggle.com/  
+- 🔗 **LinkedIn Profile:** https://www.linkedin.com/in/mohithchilamkuri/ 
+- 🔗 **Kaggle Profile:** https://www.kaggle.com/mohithreddyc  
 
 📁 **Screenshots:** `task-2-portfolio/`
 
@@ -50,7 +50,7 @@ These platforms will help me showcase my skills, connect with professionals, and
 ### 💻 Task 3 – Coding & Collaboration Platforms
 I explored coding platforms and completed a beginner-level problem to improve my problem-solving skills.
 
-- 🔗 **Coding Platform:** https://www.hackerrank.com/  
+- 🔗 **Coding Platform:** https://www.hackerrank.com/profile/chillamkuri_25m1  
 - 🔗 **Google Form (Digital Literacy Quiz):** https://forms.google.com/  
 
 📁 **Screenshots:** `task-3-platforms/`
